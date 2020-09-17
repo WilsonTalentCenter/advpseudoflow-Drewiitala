@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T13:54:20.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="wD96Q5ZxvTSaCTspfIEb" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-17T13:59:43.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="n43snS0DWF0UysbUOlYq" version="13.7.3" type="github">
   <diagram id="psb5xfgSCpwf0G0vAjJN" name="Page-1">
-    <mxGraphModel dx="1038" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,14 +46,24 @@
         <mxCell id="0RnpqdDytJ1ymvPTdnLw-13" value="enter average&lt;br&gt;return of interest&lt;br&gt;as %&amp;nbsp;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0RnpqdDytJ1ymvPTdnLw-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0RnpqdDytJ1ymvPTdnLw-6" target="0RnpqdDytJ1ymvPTdnLw-13">
+        <mxCell id="0RnpqdDytJ1ymvPTdnLw-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0RnpqdDytJ1ymvPTdnLw-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="230" as="sourcePoint" />
-            <mxPoint x="240" y="380" as="targetPoint" />
+            <mxPoint x="240" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0RnpqdDytJ1ymvPTdnLw-21" value="Calculate the numbers" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0RnpqdDytJ1ymvPTdnLw-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="0RnpqdDytJ1ymvPTdnLw-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="600" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0RnpqdDytJ1ymvPTdnLw-27" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0RnpqdDytJ1ymvPTdnLw-29" value="print the calculation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
